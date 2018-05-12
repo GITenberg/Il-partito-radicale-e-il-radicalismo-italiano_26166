@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31196
     wikipedia: http://it.wikipedia.org/wiki/Romolo_Murri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26166#Il-partito-radicale-e-il-radicalismo-italiano
 gutenberg_bookshelf: IT Scienze politiche
 gutenberg_issued: '2008-08-01'
 gutenberg_type: Text
