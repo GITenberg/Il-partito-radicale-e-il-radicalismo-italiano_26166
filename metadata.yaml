@@ -1,0 +1,29 @@
+_repo: Il-partito-radicale-e-il-radicalismo-italiano_26166
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murri, Romolo
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '31196'
+    url: http://www.gutenberg.org/2009/agents/31196
+    wikipedia: http://it.wikipedia.org/wiki/Romolo_Murri
+description: ''
+gutenberg_bookshelf: IT Scienze politiche
+gutenberg_issued: '2008-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26166'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JA'
+- !lcsh 'Italy -- Politics and government'
+- !lcc 'DG'
+title: Il partito radicale e il radicalismo italiano
+url: http://www.gutenberg.org/ebooks/26166
